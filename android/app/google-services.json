@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484502691929",
+    "project_id": "m11-nutrition",
+    "storage_bucket": "m11-nutrition.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484502691929:android:3c346ae49c65408b779148",
+        "android_client_info": {
+          "package_name": "com.nutrigenie.nutri_genie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLb3OtJqdC9ApnFTZD3k-ftbQM0irgN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
